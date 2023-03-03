@@ -1,0 +1,2 @@
+# Assignment4_DieCollection
+ This assignment is about using arrays. You will define two classes –  one to represent a die with an arbitrary number of sides, and one to  represent a collection of dice (these are the model classes). Then  you will roll the entire collection repeatedly and use an array to  build a histogram of the results. The view class for this assignment  uses a main method and Standard Input and Output. 
