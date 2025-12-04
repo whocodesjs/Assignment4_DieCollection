@@ -1,0 +1,6 @@
+This project demonstrates core object-oriented programming skills in Java. It includes:
+- A Die class modeling a die with any number of sides and random rolls.
+- A DieCollection class to manage an array of dice, making it easy to roll and analyze many dice at once.
+- Functions to simulate repeated rolling, generate a histogram of results using arrays, and present results via a simple console interface (main method, standard input/output).
+
+Ideal for practicing Java arrays, object composition, and basic statistical reporting.
